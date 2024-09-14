@@ -2,7 +2,7 @@ public class StringMultiplication {
     public static void main(String[] args) {
         String str1 = "2";
         String str2 = "3";
-        String str3 = "4";
+        String str4 = "4";
 
         int num1 = Integer.parseInt(str1);
         int num2 = Integer.parseInt(str2);
