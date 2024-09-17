@@ -2,6 +2,7 @@ public class ReverseString {
     public static void main(String[] args) {
         char[] arr = {'H', 'E', 'L', 'L', 'O'};
         int n = arr.length;
+        int m = 9;
     
 
         char[] brr = new char[n]; 
