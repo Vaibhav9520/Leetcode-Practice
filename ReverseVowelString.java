@@ -2,6 +2,7 @@ public class ReverseVowelString {
     public String swapVowels(String s) {
         // Convert the string to a character array
         char[] chars = s.toCharArray();
+        char b;
         
         // Find and store all vowels
         String vowels = "";
