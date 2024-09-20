@@ -4,6 +4,7 @@ public class ReverseVowelString {
         char[] chars = s.toCharArray();
 
         int a = 5;
+        int b  = 44;
         
         
         // Find and store all vowels
