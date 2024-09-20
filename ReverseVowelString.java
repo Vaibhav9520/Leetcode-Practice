@@ -3,8 +3,7 @@ public class ReverseVowelString {
         // Convert the string to a character array
         char[] chars = s.toCharArray();
 
-        int a = 5;
-        int b  = 44;
+        
         
         
         // Find and store all vowels
