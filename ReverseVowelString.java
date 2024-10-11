@@ -9,6 +9,7 @@ public class ReverseVowelString {
                 vowels += chars[i]; // Collect vowels
             }
         }
+        
         // Replace vowels in reverse order
         int vowelIndex = vowels.length() - 1;
         for (int i = 0; i < chars.length; i++) {
