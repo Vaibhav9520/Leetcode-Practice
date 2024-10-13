@@ -4,9 +4,6 @@ public class ReverseString {
         int n = arr.length;
         char[] brr = new char[n]; 
         
-        
-
-        
 ]
         // Reverse the array
         for (int i = 0; i < n; i++) {
